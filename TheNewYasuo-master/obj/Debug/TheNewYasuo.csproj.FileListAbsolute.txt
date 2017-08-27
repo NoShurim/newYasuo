@@ -1,0 +1,23 @@
+C:\Users\Guilherme Marzochi\Documents\GitHub\TheNewYasuo\bin\Debug\YasuoBuddy.exe.config
+C:\Users\Guilherme Marzochi\Documents\GitHub\TheNewYasuo\bin\Debug\YasuoBuddy.exe
+C:\Users\Guilherme Marzochi\Documents\GitHub\TheNewYasuo\bin\Debug\YasuoBuddy.pdb
+C:\Users\Guilherme Marzochi\Documents\GitHub\TheNewYasuo\bin\Debug\EloBuddy.dll
+C:\Users\Guilherme Marzochi\Documents\GitHub\TheNewYasuo\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Guilherme Marzochi\Documents\GitHub\TheNewYasuo\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Guilherme Marzochi\Documents\GitHub\TheNewYasuo\bin\Debug\SharpDX.dll
+C:\Users\Guilherme Marzochi\Documents\GitHub\TheNewYasuo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Guilherme Marzochi\Documents\GitHub\TheNewYasuo\obj\Debug\TheNewYasuo.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme Marzochi\Documents\GitHub\TheNewYasuo\obj\Debug\YasuoBuddy.exe
+C:\Users\Guilherme Marzochi\Documents\GitHub\TheNewYasuo\obj\Debug\YasuoBuddy.pdb
+C:\Users\Edcarlos\Desktop\TheNewYasuo-master\bin\Debug\YasuoBuddy.exe.config
+C:\Users\Edcarlos\Desktop\TheNewYasuo-master\bin\Debug\YasuoBuddy.exe
+C:\Users\Edcarlos\Desktop\TheNewYasuo-master\bin\Debug\YasuoBuddy.pdb
+C:\Users\Edcarlos\Desktop\TheNewYasuo-master\bin\Debug\EloBuddy.dll
+C:\Users\Edcarlos\Desktop\TheNewYasuo-master\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Edcarlos\Desktop\TheNewYasuo-master\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Edcarlos\Desktop\TheNewYasuo-master\bin\Debug\SharpDX.dll
+C:\Users\Edcarlos\Desktop\TheNewYasuo-master\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Edcarlos\Desktop\TheNewYasuo-master\obj\Debug\TheNewYasuo.csprojResolveAssemblyReference.cache
+C:\Users\Edcarlos\Desktop\TheNewYasuo-master\obj\Debug\TheNewYasuo.csproj.CoreCompileInputs.cache
+C:\Users\Edcarlos\Desktop\TheNewYasuo-master\obj\Debug\YasuoBuddy.exe
+C:\Users\Edcarlos\Desktop\TheNewYasuo-master\obj\Debug\YasuoBuddy.pdb
